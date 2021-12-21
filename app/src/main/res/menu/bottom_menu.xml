@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Item" android:icon="@drawable/ic_baseline" android:id="@+id/satuFragment"/>
+    <item android:title="Item" android:icon="@drawable/ic_baseline" android:id="@+id/duaFragment"/>
+    <item android:title="Item" android:icon="@drawable/ic_baseline" android:id="@+id/tigaFragment"/>
+</menu>
